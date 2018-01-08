@@ -1,0 +1,19 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: round;
+    font-family: 'Pangolin', cursive;
+}
+
+.jumbotron {
+    background-color: linen;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+th {
+    text-align: center;
+}
+
+#trainInfo {
+    text-align: center;
+}
